@@ -6,3 +6,13 @@ Coinbase Global, Inc is an American publicly traded company that operates a cryp
 
 ## Business Activities
 
+Coinbase target customer is primarily the millenials, ranging between 25 to 45 years from low-tech to high-tech individuals around the globle. Coinbase is the one of the few crypto exchanges to allow users to withdraw crypto immediately after they purchase it using fiat currency, rather than waiting several days for payment transaction to clear. it also offer the Conbase debit card, extensive cryptocurrency selection and crypto rewards ect. The platform of coinbase uses both Base, including Coinbase's layer-2 blockchain and Coinbase's technology stack, which including Coinbase Prime, Web3 Wallet and USDC.However, coinbase's regulatory problems run deep including a lawsuit filed by the SEC its core trading business. As more money flowing into crypto will heat up competition for investments, chipping away at trading fees. Coinbase still working on solving the lawsuit with SEC. 
+
+## Landscape
+
+Coinbase is the cryptocurrency exchange platforms.Coinbase has soared in popularity and turned itself into the on-ramp for mainstream crypto investors by positioning itself as a safe harbor among cryptoasset exchanges.The company has never been haked, unlike many of its competitors. In addition, there are many comptitors, such as Canaan Inc,Galaxy Digital Holdings Ltd, Riot Blockchain Inc, Silvergate Capital Corp and Marathon Digital Holdings Inc. These comptitors also promote the growth of coinbase. 
+
+## Results
+
+
+
